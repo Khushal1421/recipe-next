@@ -1,0 +1,70 @@
+{
+    "recipes":[
+         {
+             "id": 1,
+             "summary": "Please Buy Food from Us",
+             "image": "/images/food1.jpg",
+             "title": "Fried Salmon Steak"
+         },
+         {
+            "id": 2,
+            "summary": "Simple Blueberry Bread is a <b>lacto ovo vegetarian</b> recipe with 6 servings. For <b>68 cents per serving</b>, this recipe <b>covers 10%</b> of your daily requirements of vitamins and minerals. This bread has <b>473 calories</b>, <b>8g of protein</b>, and <b>18g of fat</b> per serving. 2 people were impressed by this recipe. A mixture of butter, blueberries, flour, and a handful of other ingredients are all it takes to make this recipe so delicious. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 31%</b>. This score is rather bad. Similar recipes are <a href=https://spoonacular.com/recipes/blueberry-cheesecake-ice-cream-10-simple-steps-to-sugar-gluten-free-perfection-part-3-blueberry-cheesecake-539774",
+            "img": "/images/blueberry-bread.webp",
+            "title": "Simple BlueBerry Bread"
+        },
+        {
+            "id": 3,
+            "summary": "If you have around <b>45 minutes</b> to spend in the kitchen, Moroccan Spiced Chicken Under A Brick might be a great <b>gluten free, dairy free, paleolithic, and primal</b> recipe to try. One portion of this dish contains approximately <b>31g of protein</b>, <b>39g of fat</b>, and a total of <b>488 calories</b>. This recipe serves 4. For <b>$1.55 per serving</b>, this recipe <b>covers 16%</b> of your daily requirements of vitamins and minerals. Only a few people really liked this main course. Head to the store and pick up cayenne, ground cumin, pepper, and a few other things to make it today. 2 people have made this recipe and would make it again. It is brought to you by Foodista. With a spoonacular <b>score of 42%</b>, this dish is solid. Similar recipes include",
+            "image ": "/images/chicken.webp",
+            "title": "Chinese Steamed Flan"
+        },
+        {
+            "id": 4,
+            "summary": "If you have around <b>45 minutes</b> to spend in the kitchen, Moroccan Spiced Chicken Under A Brick might be a great <b>gluten free, dairy free, paleolithic, and primal</b> recipe to try. One portion of this dish contains approximately <b>31g of protein</b>, <b>39g of fat</b>, and a total of <b>488 calories</b>. This recipe serves 4. For <b>$1.55 per serving</b>, this recipe <b>covers 16%</b> of your daily requirements of vitamins and minerals. Only a few people really liked this main course. Head to the store and pick up cayenne, ground cumin, pepper, and a few other things to make it today. 2 people have made this recipe and would make it again. It is brought to you by Foodista. With a spoonacular <b>score of 42%</b>, this dish is solid. Similar recipes include",
+            "image ": "/images/chinese-flan.webp",
+            "title": "Simple BlueBerry Bread"
+        },
+        {
+            "id": 5,
+            "summary": "Easy Eclairs requires approximately <b>45 minutes</b> from start to finish. One portion of this dish contains approximately <b>20g of protein</b>, <b>50g of fat</b>, and a total of <b>817 calories</b>. This recipe serves 6. For <b>$2.03 per serving</b>, this recipe <b>covers 22%</b> of your daily requirements of vitamins and minerals. Head to the store and pick up cornstarch, flour, pastry cream, and a few other things to make it today. It works well as a rather cheap main course. This recipe from Foodista has 5 fans. Overall, this recipe earns a <b>solid spoonacular score of 41%</b>.",
+            "image ": "/images/easy-eclairs.webp",
+            "title": "Easy Eclairs"
+        },
+        {
+            "id": 6,
+            "summary": "Eggs Florentine might be a good recipe to expand your main course collection. This recipe makes 4 servings with <b>433 calories</b>, <b>22g of protein</b>, and <b>25g of fat</b> each. For <b>$2.12 per serving</b>, this recipe <b>covers 31%</b> of your daily requirements of vitamins and minerals. Head to the store and pick up water, cayenne pepper, spinach, and a few other things to make it today. This recipe from Foodista has 37 fans. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. It is a good option if you're following a <b>lacto ovo vegetarian</b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 83%</b>, which is super. Similar recipes include",
+            "image ": "/images/Egg.jpg",
+            "title": "Eggs Florentine"
+        },
+        {
+            "id": 7,
+            "summary": "Almost Heaven Cake requires around <b>45 minutes</b> from start to finish. One portion of this dish contains about <b>4g of protein</b>, <b>4g of fat</b>, and a total of <b>242 calories</b>. This recipe serves 15. For <b>76 cents per serving</b>, this recipe <b>covers 6%</b> of your daily requirements of vitamins and minerals. 8 people were glad they tried this recipe. It works well as a very budget friendly dessert. If you have cake mix, mandarin oranges, cream cheese, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 25%</b>. This score is not so amazing. Similar recipes include ",
+            "image ": "/images/heaven-cake.webp",
+            "title": "Almost Heaven Cake"
+        },
+        {
+            "id": 8,
+            "summary": "The recipe Pumpkin Ravioli With Browned Butter Sage Sauce could satisfy your Mediterranean craving in around <b>45 minutes</b>. This recipe makes 4 servings with <b>813 calories</b>, <b>34g of protein</b>, and <b>40g of fat</b> each. For <b>$2.32 per serving</b>, this recipe <b>covers 34%</b> of your daily requirements of vitamins and minerals. 5 people found this recipe to be delicious and satisfying. It works well as a main course. Head to the store and pick up salt, cream, parmesan cheese, and a few other things to make it today. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 56%</b>. This score is good. If you like this recipe, you might also like recipes such as ",
+            "image ": "/images/pumpkin-ravoili.webp",
+            "title": "Pumpkin Ravioli With Browned Butter Sage Sauce"
+        },
+        {
+            "id": 9,
+            "summary": "Cheddar Polenta with Sun-dried Tomatoes & Shrimp might be a good recipe to expand your main course collection. This recipe makes 2 servings with <b>273 calories</b>, <b>21g of protein</b>, and <b>17g of fat</b> each. For <b>$2.43 per serving</b>, this recipe <b>covers 11%</b> of your daily requirements of vitamins and minerals. 5 people have made this recipe and would make it again. It is a good option if you're following a <b>gluten free and pescatarian</b> diet. Head to the store and pick up lemon juice, salt and pepper, onions, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 47%</b>. Similar recipes are ",
+            "image ": "/images/Tomato.jpg",
+            "title": "Cheddar Polenta with Sun-dried Tomatoes & Shrimp"
+        },
+        {
+            "id": 10,
+            "summary": "If you have approximately <b>45 minutes</b> to spend in the kitchen, Tantalizing White Onion & Tuna Tart might be an excellent <b>pescatarian</b> recipe to try. One serving contains <b>797 calories</b>, <b>28g of protein</b>, and <b>56g of fat</b>. This recipe serves 6. For <b>$2.83 per serving</b>, this recipe <b>covers 22%</b> of your daily requirements of vitamins and minerals. 2 people were impressed by this recipe. It is brought to you by Foodista. Head to the store and pick up salt and pepper, mildly fish fillets, onions, and a few other things to make it today. Overall, this recipe earns a <b>pretty good spoonacular score of 49%</b>. If you like this recipe, you might also like recipes such as ",
+            "image ": "/images/tuna-tart.webp",
+            "title": "Tantalizing White Onion & Tuna Tart"
+        },
+        {
+            "id": 11,
+            "summary": "Farm Fresh Vegetable Stew requires approximately <b>45 minutes</b> from start to finish. This recipe serves 7 and costs $1.47 per serving. Watching your figure? This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe has <b>264 calories</b>, <b>13g of protein</b>, and <b>5g of fat</b> per serving. Not a lot of people made this recipe, and 3 would say it hit the spot. If you have kidney beans, peppers, cumin, and a few other ingredients on hand, you can make it. It works well as a main course. It will be a hit at your <b>Autumn</b> event. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%</b>. This score is awesome. Try ",
+            "image ": "/images/vegetable-stew.webp",
+            "title": "Farm Fresh Vegetable Stew"
+        }
+    ]
+}

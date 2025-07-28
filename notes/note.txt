@@ -1,0 +1,31 @@
+SCSS consists of more advanced features, and thus, it can perform more advanced functions. A regular CSS language does not assign various nested rules. The SCSS language promotes rules that are properly nested. CSS is a styling language that lets users create, design, and style various web pages.
+ pathname: '/**', // it allows all Image Paths
+
+warn-once.ts:6 Image with src "https://img.spoonacular.com/recipes/645722-556x370.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+
+Next.js expects every file in the pages directory to export a React component by default, as these files are mapped to routes and the exported component is rendered when that route is navigated
+
+A CDN, or Content Delivery Network, is a geographically distributed network of servers that work together to deliver web content to users more quickly and efficiently. Essentially, it caches content (like images, videos, or website code) on servers located closer to users, reducing latency and improving loading times
+ Ex:- It's used in Google Fonts when using Link to get a Google Font 
+
+The Height and Width of Image tells Browser how much space it should preserve for the image 
+ So it's Good if u specify width and height of Image Compnent acc. to Aspect Ratio of Image
+
+Types of Import in Image :- adding Image, static import  (https://www.youtube.com/watch?v=8lDxivEusUc)
+Fill fills up the whole space of Parent Element (Doubtful cuz  in my case it exceeded div as well in which Ihad encased Image Component)
+
+Content-center VS items-center
+
+To make a card lift slightly on hover using Tailwind CSS, you can combine the hover: pseudo-class with transform utility classes.
+Here's how to achieve this effect:
+Apply a transform on hover:
+Use hover:-translate-y-2 (or a similar value like -translate-y-1 for a smaller lift) on the card element. This will move the card upwards along the Y-axis when hovered.
+Add a smooth transition:
+Include transition-transform and duration-300 (or another duration like duration-150) to ensure a smooth animation when the card lifts and returns to its original position. You can also specify an easing function like ease-in-out for a more natural feel.
+Consider a shadow change:
+Optionally, you can also increase the shadow on hover to enhance the "lifting" effect. Use hover:shadow-lg or hover:shadow-xl alongside the shadow-md or shadow-lg on the base state.
+
+// Great! That error means you're assigning an async function (a Promise) directly to a variable typed as a synchronous array. Here's how to fix it: use await since Promise is returned from requests.ts
+  Q. What is Promise in this Case?
+
+I must use await in casea Promise Data is being returned

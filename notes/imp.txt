@@ -1,0 +1,4 @@
+const data= await response.json(); // it was giving error recipes.map is not a function cuz Spoonacular API wraps Array in {"recipes:[]"} as iswith JSON. So has to change it
+        return data.recipes;
+REMEMBER IT IN FUTURE when  using API's that u have to parse API in order to get data acc. to ur liking (i.e. extract formatted data)
+urlsearchparams IMP for dealing with params (like I am doing for complexSearch API)

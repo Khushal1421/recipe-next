@@ -1,0 +1,1 @@
+How didspread operator wrks in passing props (See note2.txt)
