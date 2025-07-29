@@ -2,3 +2,5 @@ const data= await response.json(); // it was giving error recipes.map is not a f
         return data.recipes;
 REMEMBER IT IN FUTURE when  using API's that u have to parse API in order to get data acc. to ur liking (i.e. extract formatted data)
 urlsearchparams IMP for dealing with params (like I am doing for complexSearch API)
+
+ where reassigning never happens, use const. Else will give error during deployment 

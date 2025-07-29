@@ -12,9 +12,9 @@ interface Response {
 }
 
 export default function Card({ item }: Response) {
-  let img = item.image;
-  let name = item.name;
-  let link = item.link;
+  const img = item.image; // where reassigning never happens, use const. Else will give error during deployment 
+  const name = item.name;
+  const link = item.link;
 
   return (
     <>

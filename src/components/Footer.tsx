@@ -8,8 +8,8 @@ export default function Footer() {
         <div>
           <h1 className="text-3xl font-bold font-cursive text-black">Tastebite</h1>
           <p className="mt-4">
-            "On the other hand, we denounce with righteous indignation and dislike men
-            who are so beguiled and demoralized by the charms of pleasure of the moment"
+          &quot;On the other hand, we denounce with righteous indignation and dislike men
+            who are so beguiled and demoralized by the charms of pleasure of the moment&quot;
           </p>
         </div>
 

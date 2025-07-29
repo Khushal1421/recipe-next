@@ -97,3 +97,35 @@ Tip: Always prefer interface or type declarations for clean, maintainable code.
 
 Let me know if you want the full typing for the recipe object too.
 
+
+
+
+ <p className="mt-4">
+            "On the other hand, we denounce with righteous indignation and dislike men
+            who are so beguiled and demoralized by the charms of pleasure of the moment"
+          </p>
+
+You're getting this ESLint error:
+
+bash
+Copy
+Edit
+react/no-unescaped-entities
+because you are using unescaped double quotes (") inside a JSX string (<p>"text"</p>). JSX expects those characters to be escaped.
+
+✅ Fix:
+Replace the double quotes inside the <p> tag with an HTML-safe escape code like &quot;.
+
+🔧 Updated Code (with fix):
+tsx
+Copy
+Edit
+<p className="mt-4">
+  &quot;On the other hand, we denounce with righteous indignation and dislike men
+  who are so beguiled and demoralized by the charms of pleasure of the moment&quot;
+</p>
+💡 Why This Happens:
+JSX treats everything inside a tag as HTML-like, so using quotes directly can confuse the parser (especially if inside another quote or attribute). Escaping with &quot; avoids this.
+
+Let me know if you'd rather use a JavaScript string (e.g., with {}) instead — both approaches are valid.
+        

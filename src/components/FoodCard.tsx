@@ -7,7 +7,7 @@ interface Recipe {
   image: string;
   // readyInMinutes: number;
   summary?: string;
-  [key: string]: any; // optional to allow extra Spoonacular fields
+  // [key: string]: any; // optional to allow extra Spoonacular fields  (had to comment cuz was giving error of any type during deployment)
 }
 
 interface RecipeData {

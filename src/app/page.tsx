@@ -37,8 +37,7 @@
 // } '/images2/food-stack.jpg
 
 import Image from "next/image";
-import foodImage1 from "../../public/images2/food-stack.jpg";
-import foodImage2 from "../../public/images2/food-stock.jpg";
+// 
 import Card from "@/components/Card";
 import { Search } from "@/components/Search";
 

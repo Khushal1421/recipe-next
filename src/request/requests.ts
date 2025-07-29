@@ -54,11 +54,19 @@ const cuisines = ["italian", "mexican", "indian", "chinese","french","greek","ir
 const diets = ["vegetarian", "vegan", "gluten free", "keto"];
 const mealTypes = ["main course", "dessert", "snack", "breakfast","drink","soup"];//or type
 
+// interface Params{
+//     cuisine:string;
+//     diet: string;
+//     type:string;
+// }
 
 function buildQuery(userInput: string) {
     const input = userInput.toLowerCase();
   
-    const params: any = {};
+    // const params: any = {};
+    const params:{ [key: string]: string } = {}
+
+    // To overcome any , I thought of describing interface Params and initialize each with empty string but it didn't worked
   
     // Match cuisine
     const cuisineMatch = cuisines.find(c => input.includes(c));

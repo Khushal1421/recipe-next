@@ -11,14 +11,14 @@ export default async function ShowDishes({params} :{
     image: string;
     readyInMinutes: number;
     summary?: string;
-    [key: string]: any; // optional to allow extra Spoonacular fields
+    // [key: string]: any; // optional to allow extra Spoonacular fields
   }
 
   const {link} = await params;
-  let z= link.charAt(0).toUpperCase() + link.slice(1); // slice is to ensure that rest of Material is also Added
+  const z= link.charAt(0).toUpperCase() + link.slice(1); // slice is to ensure that rest of Material is also Added
   
 
-  let recipes:Recipe[]= await RandomRecipe(link); // Great! That error means you're assigning an async function (a Promise) directly to a variable typed as a synchronous array. Here's how to fix it: use await since Promise is returned from requests.ts
+  const recipes:Recipe[]= await RandomRecipe(link); // Great! That error means you're assigning an async function (a Promise) directly to a variable typed as a synchronous array. Here's how to fix it: use await since Promise is returned from requests.ts
   // console.log(recipes);
 
   return (
