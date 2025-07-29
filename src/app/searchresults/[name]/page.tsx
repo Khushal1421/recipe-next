@@ -8,10 +8,14 @@ interface Recipes{
 }
 
 // IMP Here how I  call params is IMP 
-export default async function SearchResult({params}: {params:{name: string}}){
-    const {name} = params;
+export default async function SearchResult({
+    params,
+  }: {
+      params:{name: string}
+    }){
+    // const {name} = params;
    
-    const response:Recipes[]= await ComplexSearch(name);
+    const response:Recipes[]= await ComplexSearch(params.name);
 
     return(
         <>
