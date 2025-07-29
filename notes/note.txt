@@ -26,6 +26,6 @@ Consider a shadow change:
 Optionally, you can also increase the shadow on hover to enhance the "lifting" effect. Use hover:shadow-lg or hover:shadow-xl alongside the shadow-md or shadow-lg on the base state.
 
 // Great! That error means you're assigning an async function (a Promise) directly to a variable typed as a synchronous array. Here's how to fix it: use await since Promise is returned from requests.ts
-  Q. What is Promise in this Case?
+  Q. What is  in this Case?
 
-I must use await in casea Promise Data is being returned
+I must use await in case a Promise Data is being returned

@@ -13,9 +13,9 @@ export default async function SearchResult({
   }: {
       params:{name: string}
     }){
-    // const {name} = params;
+    const {name} = await params;
    
-    const response:Recipes[]= await ComplexSearch(params.name);
+    const response:Recipes[]= await ComplexSearch(name);
 
     return(
         <>
